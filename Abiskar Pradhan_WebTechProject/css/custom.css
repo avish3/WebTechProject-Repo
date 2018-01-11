@@ -1,0 +1,51 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+
+    background-color: white;
+}
+
+
+.zlogo {
+    margin: 22% 2% 2% 2%;
+}
+
+.bannerad {
+    margin: 14% 4% 4% 2.8%;
+}
+
+
+.jumbotron {
+    background-image: url(../img/jumbotron01.jpg);
+    background-size: cover;
+
+}
+
+h1 {
+    margin-top: 2rem;
+}
+
+.about-the-company {
+    text-align: justify;
+
+}
+
+.about-the-company img {
+    margin-left: 20px;
+
+}
+
+.tab-pane fade a {
+    float: left;
+
+}
+
+footer {
+    background-color: #444444;
+    padding: .5% 2%;
+    color: #fff;
+    margin: 30px 0;
+    text-align: center;
+
+}
